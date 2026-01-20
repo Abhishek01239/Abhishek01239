@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on building small AI tools and ML projects, pushing daily progress to GitHub
+👯 I’m looking to collaborate on AI, Machine Learning, Python, and open-source projects
+🤝 I’m looking for help with system design, scalable AI projects, and real-world ML use cases
+🌱 I’m currently learning Machine Learning, Deep Learning, Data Science, and backend development
+💬 Ask me about Python, ML basics, AI project ideas, GitHub workflows, and LeetCode problem solving
+⚡ Fun fact: I believe consistency beats talent — one GitHub commit a day keeps self-doubt away 🚀
 
 
 ## 🌐 Socials:
